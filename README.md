@@ -1,2 +1,3 @@
-# hello-world-
-hello world in Node JS
+// hello.js
+
+console.log('Hello, World!');
